@@ -1,4 +1,4 @@
-class PleckJP < Formula
+cask "pleck-jp" do
   version "0.1.0"
   sha256 "5c1edcfbd175a094e341c9a2aab4ddb5b1642de7016ae2291e4e3a3a5d6ca9ea"
 
