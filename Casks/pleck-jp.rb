@@ -1,6 +1,6 @@
 cask "pleck-jp" do
-  version "0.2.1"
-  sha256 "7feb41583c5cf75c129d8921a5ab3f14ef2d53fd96722c5ff58f666db3fb07b3"
+  version "0.2.2"
+  sha256 "5971c0a351f57a070d6a34b056a2719a40524886bcb2876d5400ae4bee0f904e"
 
   url "https://github.com/ryota2357/PleckJP/releases/download/v#{version}/PleckJP_v#{version}.zip"
   name "PleckJP"
